@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "parent": "matteroverdrive116:block/android_station",
+  "textures": {
+    "bottom": "matteroverdrive116:block/weapon_station_bottom",
+    "top": "matteroverdrive116:block/weapon_station_top",
+    "side": "matteroverdrive116:block/starmap_side",
+    "particle": "matteroverdrive116:block/starmap_side"
+  }
+}

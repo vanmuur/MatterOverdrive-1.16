@@ -1,0 +1,11 @@
+{
+  "parent": "matteroverdrive116:block/base/orientable",
+  "textures": {
+    "bottom": "matteroverdrive116:block/vent2",
+    "top": "matteroverdrive116:block/decomposer_top",
+    "side": "matteroverdrive116:block/recycler_side_anim",
+    "particle": "matteroverdrive116:block/recycler_side_anim",
+    "front": "matteroverdrive116:block/recycler_side_anim",
+    "back": "matteroverdrive116:block/recycler_side_anim"
+  }
+}

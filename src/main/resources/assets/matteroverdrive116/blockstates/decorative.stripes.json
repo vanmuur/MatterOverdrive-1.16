@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "matteroverdrive116:block/decorative.stripes" },
+    "facing=south": { "model": "matteroverdrive116:block/decorative.stripes" },
+    "facing=east":  { "model": "matteroverdrive116:block/decorative.stripes" },
+    "facing=west":  { "model": "matteroverdrive116:block/decorative.stripes" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "forge_marker": 1,
+  "parent": "matteroverdrive116:block/base/orientable",
+  "textures": {
+    "down": "matteroverdrive116:block/vent2",
+    "up": "matteroverdrive116:block/decomposer_top",
+    "east": "matteroverdrive116:block/base_stripes",
+    "west": "matteroverdrive116:block/base_stripes",
+    "south": "matteroverdrive116:block/base_stripes",
+    "north": "matteroverdrive116:block/tank_empty",
+    "particle": "matteroverdrive116:block/base_stripes"
+  }
+}

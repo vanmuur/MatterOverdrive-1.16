@@ -1,0 +1,7 @@
+Stream.of(
+Block.box(3, 0, 3, 13, 13, 16),
+Block.box(0, 13, 3, 16, 16, 16),
+Block.box(0, 0, 0, 16, 16, 3),
+VoxelShapes.join(Block.box(13, 0, 3, 16, 13, 4), VoxelShapes.join(Block.box(13, 3, 4, 16, 13, 5), VoxelShapes.join(Block.box(13, 7, 5, 16, 13, 6), VoxelShapes.join(Block.box(13, 10, 6, 16, 13, 7), VoxelShapes.join(Block.box(13, 11, 7, 16, 13, 8), VoxelShapes.join(Block.box(13, 12, 8, 16, 13, 9), VoxelShapes.join(Block.box(13, 12, 9, 16, 13, 10), Block.box(13, 12, 10, 16, 13, 11), IBooleanFunction.LEFTSLANT), IBooleanFunction.LEFTSLANT), IBooleanFunction.LEFTSLANT), IBooleanFunction.LEFTSLANT), IBooleanFunction.LEFTSLANT), IBooleanFunction.LEFTSLANT), IBooleanFunction.LEFTSLANT),
+VoxelShapes.join(Block.box(0, 0, 3, 3, 13, 4), VoxelShapes.join(Block.box(0, 3, 4, 3, 13, 5), VoxelShapes.join(Block.box(0, 7, 5, 3, 13, 6), VoxelShapes.join(Block.box(0, 10, 6, 3, 13, 7), VoxelShapes.join(Block.box(0, 11, 7, 3, 13, 8), VoxelShapes.join(Block.box(0, 12, 8, 3, 13, 9), VoxelShapes.join(Block.box(0, 12, 9, 3, 13, 10), Block.box(0, 12, 10, 3, 13, 11), IBooleanFunction.RIGHTSLANT), IBooleanFunction.RIGHTSLANT), IBooleanFunction.RIGHTSLANT), IBooleanFunction.RIGHTSLANT), IBooleanFunction.RIGHTSLANT), IBooleanFunction.RIGHTSLANT), IBooleanFunction.RIGHTSLANT)
+).reduce((v1, v2) -> VoxelShapes.join(v1, v2, IBooleanFunction.OR)).get();

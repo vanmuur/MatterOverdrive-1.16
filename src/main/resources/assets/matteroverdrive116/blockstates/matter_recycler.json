@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "running=true": {"model": "matteroverdrive116:block/matter_recycler_running"},
+    "running=false": {"model": "matteroverdrive116:block/matter_recycler"}
+  }
+}

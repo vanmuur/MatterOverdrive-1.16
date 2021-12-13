@@ -1,0 +1,20 @@
+{
+  "itemGroup.MOModTab": "Matter Overdrive",
+  "block.matteroverdrive116.matter_analyzer": "Matter Analyzer",
+  "block.matteroverdrive116.matter_recycler": "Matter Recycler",
+  "block.matteroverdrive116.decomposer": "Decomposer",
+  "block.matteroverdrive116.replicator": "Replicator",
+  "block.matteroverdrive116.matter_pipe": "Matter Pipe",
+  "block.matteroverdrive116.pattern_storage": "Pattern Storage",
+  "block.matteroverdrive116.decorative.stripes": "Striped Block",
+  "block.matteroverdrive116.star_map": "Star Map",
+
+  "item.matteroverdrive.kunai": "Kunai",
+  "matteroverdrive.subtitle.kunai_thud": "Kunai Thud",
+  "item.matteroverdrive.android_pill_red": "Red Pill",
+  "item.matteroverdrive.android_pill_blue": "Blue Pill",
+  "item.matteroverdrive.android_pill_yellow": "Yellow Pill",
+  "death.attack.nanites": "%1$s tried to ingest nanites",
+  "death.attack.nanites.player": "%1$s tried to ingest nanites whilst fighting %2$s",
+  "matteroverdrive.subtitle.android_teleport": "Android Teleport"
+}
