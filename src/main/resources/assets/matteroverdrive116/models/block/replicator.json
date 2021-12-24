@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "matteroverdrive116:block/base/orientable",
 	"textures": {
 		"0": "matteroverdrive116:block/network_port",
 		"1": "matteroverdrive116:block/vent",

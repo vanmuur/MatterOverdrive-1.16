@@ -1,0 +1,6 @@
+{
+  "loader": "forge:obj",
+  "parent": "matteroverdrive116:block/base/orientable",
+  "model": "matteroverdrive116:models/block/tritanium_crate.obj",
+  "flip-v": true
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "matteroverdrive116:block/microwave"},
+        "facing=south": { "model": "matteroverdrive116:block/microwave", "y": 180 },
+        "facing=west":  { "model": "matteroverdrive116:block/microwave", "y": 270 },
+        "facing=east":  { "model": "matteroverdrive116:block/microwave", "y": 90 },
+        "inventory":    { "model": "matteroverdrive116:block/base/orientable", "y": 270 }
+    }
+}

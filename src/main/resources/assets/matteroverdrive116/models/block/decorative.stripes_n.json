@@ -1,0 +1,12 @@
+{
+  "forge_marker": 1,
+  "parent": "block/cube",
+  "textures": {
+    "north": "matteroverdrive116:block/base_stripes",
+    "south": "matteroverdrive116:block/base_stripes",
+    "west": "matteroverdrive116:block/stripes_w",
+    "east": "matteroverdrive116:block/stripes_w",
+    "up": "matteroverdrive116:block/stripes_n",
+    "down": "matteroverdrive116:block/stripes_n"
+  }
+}
