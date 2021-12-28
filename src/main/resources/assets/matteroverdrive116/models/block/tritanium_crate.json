@@ -1,6 +1,9 @@
 {
   "loader": "forge:obj",
   "parent": "matteroverdrive116:block/base/orientable",
+  "textures": {
+    "particle": "matteroverdrive116:block/tritanium_crate_base"
+  },
   "model": "matteroverdrive116:models/block/tritanium_crate.obj",
   "flip-v": true
 }
